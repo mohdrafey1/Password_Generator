@@ -9,7 +9,6 @@ This project was created using React and utilizes the following React Hooks:
 - **useRef**: Used to create a reference for the password input element.
 - **useEffect**: Used to generate a new password whenever there's a change in length, numbersAllowed, charactersAllowed, or setPassword.
 - **useCallback**: Used to create memoized functions for copying the password to the clipboard and generating the password.
-- 
 ## Features
 
 - Generate passwords with customizable length (from 8 to 40 characters).
